@@ -1,0 +1,11 @@
+In file included from /Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m:9:
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.h:14: error: expected specifier-qualifier-list before '-' token
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m:15: warning: cannot find interface declaration for 'dragImageViewController'
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m: In function '-[dragImageViewController initWithFrame:]':
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m:16: error: no super class declared in @interface for 'dragImageViewController'
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m:17: error: 'dragger' undeclared (first use in this function)
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m:17: error: (Each undeclared identifier is reported only once
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m:17: error: for each function it appears in.)
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m:17: error: 'myDragRect' undeclared (first use in this function)
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m: In function '-[dragImageViewController dealloc]':
+/Users/prestonellis/Desktop/scroller/Classes/dragImageViewController.m:33: error: no super class declared in @interface for 'dragImageViewController'

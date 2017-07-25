@@ -1,0 +1,1342 @@
+Tscroller
+v7
+r1
+
+N/Users/prestonellis/Desktop/scroller/MainWindow.xib
+c000000004C1FBDBE0000000000002657
+t1277148606
+s9815
+
+N/Users/prestonellis/Desktop/scroller/backgound.png
+c000000004C1BB7100000000000019CDF
+t1276884752
+s105695
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/Info.plist
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/MainWindow.nib
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/PkgInfo
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a23.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a24.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a25.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a26.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/backgound.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c23.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c24.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c25.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c26.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c27.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c28.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c29.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c30.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c31.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d23.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d24.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d25.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d26.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d27.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d28.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d29.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/grid.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/gridsmall.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/scrollerViewController.nib
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Release-iphoneos/scroller.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/grid.png
+c000000004C21895900000000000658A6
+t1277266265
+s415910
+
+N/Users/prestonellis/Desktop/scroller/gridsmall.png
+c000000004C218CEB000000000005E917
+t1277267179
+s387351
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d1.png
+c000000004C1D165A0000000000004284
+t1276974682
+s17028
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d10.png
+c000000004C1D15F6000000000000411F
+t1276974582
+s16671
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d11.png
+c000000004C1D15EE00000000000040F7
+t1276974574
+s16631
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d12.png
+c000000004C1D16E6000000000000420D
+t1276974822
+s16909
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d13.png
+c000000004C1D16DE0000000000004302
+t1276974814
+s17154
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d14.png
+c000000004C1D16D80000000000004221
+t1276974808
+s16929
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d15.png
+c000000004C1D16D200000000000042DA
+t1276974802
+s17114
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d16.png
+c000000004C1D16C6000000000000432D
+t1276974790
+s17197
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d17.png
+c000000004C1D16C000000000000042A9
+t1276974784
+s17065
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d18.png
+c000000004C1D16B400000000000042A1
+t1276974772
+s17057
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d19.png
+c000000004C1D16AE000000000000411C
+t1276974766
+s16668
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d2.png
+c000000004C1D165C00000000000040E9
+t1276974684
+s16617
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d20.png
+c000000004C1D16A8000000000000427F
+t1276974760
+s17023
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d21.png
+c000000004C1D16A200000000000041B5
+t1276974754
+s16821
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d22.png
+c000000004C1D169A00000000000041DF
+t1276974746
+s16863
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d23.png
+c000000004C1D16900000000000004133
+t1276974736
+s16691
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d24.png
+c000000004C1D16920000000000004281
+t1276974738
+s17025
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d25.png
+c000000004C1D168200000000000043F6
+t1276974722
+s17398
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d26.png
+c000000004C1D167C0000000000004294
+t1276974716
+s17044
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d27.png
+c000000004C1D1674000000000000427D
+t1276974708
+s17021
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d28.png
+c000000004C1D1668000000000000440C
+t1276974696
+s17420
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d29.png
+c000000004C1D16540000000000004487
+t1276974676
+s17543
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d3.png
+c000000004C1D165E000000000000413B
+t1276974686
+s16699
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d4.png
+c000000004C1D166C00000000000041A5
+t1276974700
+s16805
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d5.png
+c000000004C1D162000000000000040DC
+t1276974624
+s16604
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d6.png
+c000000004C1D162600000000000040E4
+t1276974630
+s16612
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d7.png
+c000000004C1D162C0000000000004015
+t1276974636
+s16405
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d8.png
+c000000004C1D16300000000000003EFF
+t1276974640
+s16127
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d9.png
+c000000004C1D1600000000000000402D
+t1276974592
+s16429
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a10.png
+c000000004C1D3BFE0000000000004230
+t1276984318
+s16944
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a11.png
+c000000004C1D3BF800000000000040C2
+t1276984312
+s16578
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a12.png
+c000000004C1D3BF30000000000003F86
+t1276984307
+s16262
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a13.png
+c000000004C1D3BEE0000000000003E36
+t1276984302
+s15926
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a14.png
+c000000004C1D3BEA0000000000003EEA
+t1276984298
+s16106
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a15.png
+c000000004C1D3BE500000000000040A6
+t1276984293
+s16550
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a16.png
+c000000004C1D3BE100000000000043E4
+t1276984289
+s17380
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a17.png
+c000000004C1D3BDB0000000000004814
+t1276984283
+s18452
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a18.png
+c000000004C1D3BD60000000000004A43
+t1276984278
+s19011
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a19.png
+c000000004C1D3BD00000000000004A3D
+t1276984272
+s19005
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a2.png
+c000000004C1D3C260000000000004880
+t1276984358
+s18560
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a20.png
+c000000004C1D3BCB00000000000047F9
+t1276984267
+s18425
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a21.png
+c000000004C1D3BC700000000000047A3
+t1276984263
+s18339
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a22.png
+c000000004C1D3BC200000000000046DF
+t1276984258
+s18143
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a23.png
+c000000004C1D3BBC00000000000047EA
+t1276984252
+s18410
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a24.png
+c000000004C1D3BB700000000000046D5
+t1276984247
+s18133
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a25.png
+c000000004C1D3C340000000000004A14
+t1276984372
+s18964
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a26.png
+c000000004C1D3C2F0000000000004921
+t1276984367
+s18721
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a3.png
+c000000004C1D3C22000000000000487E
+t1276984354
+s18558
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a4.png
+c000000004C1D3C1E0000000000004749
+t1276984350
+s18249
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a5.png
+c000000004C1D3C1900000000000044AE
+t1276984345
+s17582
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a6.png
+c000000004C1D3C10000000000000438F
+t1276984336
+s17295
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a7.png
+c000000004C1D3C0C0000000000004363
+t1276984332
+s17251
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a8.png
+c000000004C1D3C080000000000004273
+t1276984328
+s17011
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a9.png
+c000000004C1D3C0300000000000042AF
+t1276984323
+s17071
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c1.png
+c000000004C1C614200000000000041E6
+t1276928322
+s16870
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c10.png
+c000000004C1C61100000000000003EFB
+t1276928272
+s16123
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c11.png
+c000000004C1C610B0000000000003FF7
+t1276928267
+s16375
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c12.png
+c000000004C1C60FD000000000000405F
+t1276928253
+s16479
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c13.png
+c000000004C1C60F70000000000003F61
+t1276928247
+s16225
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c14.png
+c000000004C1C60F50000000000003E95
+t1276928245
+s16021
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c15.png
+c000000004C1C60F20000000000003DCE
+t1276928242
+s15822
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c16.png
+c000000004C1C60EF0000000000003F65
+t1276928239
+s16229
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c17.png
+c000000004C1C60E90000000000003FFD
+t1276928233
+s16381
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c18.png
+c000000004C1C60E60000000000003F0C
+t1276928230
+s16140
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c19.png
+c000000004C1C60E300000000000040F3
+t1276928227
+s16627
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c2.png
+c000000004C1C6140000000000000429D
+t1276928320
+s17053
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c20.png
+c000000004C1C60E00000000000004107
+t1276928224
+s16647
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c21.png
+c000000004C1C60DD0000000000003EA2
+t1276928221
+s16034
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c22.png
+c000000004C1C60DA0000000000003C58
+t1276928218
+s15448
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c23.png
+c000000004C1C60D700000000000039CD
+t1276928215
+s14797
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c24.png
+c000000004C1C60D4000000000000389C
+t1276928212
+s14492
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c25.png
+c000000004C1C60CE00000000000038AE
+t1276928206
+s14510
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c26.png
+c000000004C1C60C20000000000003936
+t1276928194
+s14646
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c27.png
+c000000004C1C60BB00000000000038DA
+t1276928187
+s14554
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c28.png
+c000000004C1C60B90000000000003C0F
+t1276928185
+s15375
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c29.png
+c000000004C1C60B60000000000003C4E
+t1276928182
+s15438
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c3.png
+c000000004C1C613B000000000000417B
+t1276928315
+s16763
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c30.png
+c000000004C1C60B30000000000003C24
+t1276928179
+s15396
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c31.png
+c000000004C1C60AC0000000000003E3D
+t1276928172
+s15933
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c4.png
+c000000004C1C613400000000000040FE
+t1276928308
+s16638
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c5.png
+c000000004C1C6130000000000000404F
+t1276928304
+s16463
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c6.png
+c000000004C1C612B0000000000003F2D
+t1276928299
+s16173
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c7.png
+c000000004C1C61210000000000003E5F
+t1276928289
+s15967
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c8.png
+c000000004C1C611B0000000000003D74
+t1276928283
+s15732
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c9.png
+c000000004C1C61150000000000003D5D
+t1276928277
+s15709
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b1.png
+c000000004C1D99940000000000003F28
+t1277008276
+s16168
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b10.png
+c000000004C1D99940000000000003C9E
+t1277008276
+s15518
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b11.png
+c000000004C1D99940000000000003561
+t1277008276
+s13665
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b12.png
+c000000004C1D99940000000000003531
+t1277008276
+s13617
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b13.png
+c000000004C1D99940000000000003547
+t1277008276
+s13639
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b14.png
+c000000004C1D99940000000000003597
+t1277008276
+s13719
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b15.png
+c000000004C1D999400000000000036A6
+t1277008276
+s13990
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b16.png
+c000000004C1D99940000000000003D7B
+t1277008276
+s15739
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b17.png
+c000000004C1D999400000000000037A1
+t1277008276
+s14241
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b18.png
+c000000004C1D99940000000000003EE7
+t1277008276
+s16103
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b19.png
+c000000004C1D9994000000000000394A
+t1277008276
+s14666
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b2.png
+c000000004C1D99940000000000003E15
+t1277008276
+s15893
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b3.png
+c000000004C1D999400000000000037A6
+t1277008276
+s14246
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b4.png
+c000000004C1D99940000000000003E34
+t1277008276
+s15924
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b5.png
+c000000004C1D99940000000000003770
+t1277008276
+s14192
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b6.png
+c000000004C1D99940000000000003666
+t1277008276
+s13926
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b7.png
+c000000004C1D99940000000000003D5D
+t1277008276
+s15709
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b8.png
+c000000004C1D99940000000000003CF1
+t1277008276
+s15601
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b9.png
+c000000004C1D99940000000000003696
+t1277008276
+s13974
+
+N/Users/prestonellis/Desktop/scroller/scrollerViewController.xib
+c000000004C21962B000000000000B315
+t1277269547
+s45845
+
+Nscroller-Info.plist
+c000000004C1FBDBE000000000000038D
+t1277148606
+s909
+
+CCompileXIB /Users/prestonellis/Desktop/scroller/MainWindow.xib
+r0
+
+CCompileXIB /Users/prestonellis/Desktop/scroller/scrollerViewController.xib
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a10.png "planet one final/a10.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a11.png "planet one final/a11.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a12.png "planet one final/a12.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a13.png "planet one final/a13.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a14.png "planet one final/a14.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a15.png "planet one final/a15.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a16.png "planet one final/a16.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a17.png "planet one final/a17.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a18.png "planet one final/a18.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a19.png "planet one final/a19.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a2.png "planet one final/a2.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a20.png "planet one final/a20.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a21.png "planet one final/a21.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a22.png "planet one final/a22.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a23.png "planet one final/a23.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a24.png "planet one final/a24.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a25.png "planet one final/a25.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a26.png "planet one final/a26.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a3.png "planet one final/a3.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a4.png "planet one final/a4.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a5.png "planet one final/a5.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a6.png "planet one final/a6.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a7.png "planet one final/a7.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a8.png "planet one final/a8.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/a9.png "planet one final/a9.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b1.png "planet two final/b1.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b10.png "planet two final/b10.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b11.png "planet two final/b11.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b12.png "planet two final/b12.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b13.png "planet two final/b13.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b14.png "planet two final/b14.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b15.png "planet two final/b15.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b16.png "planet two final/b16.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b17.png "planet two final/b17.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b18.png "planet two final/b18.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b19.png "planet two final/b19.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b2.png "planet two final/b2.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b3.png "planet two final/b3.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b4.png "planet two final/b4.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b5.png "planet two final/b5.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b6.png "planet two final/b6.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b7.png "planet two final/b7.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b8.png "planet two final/b8.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/b9.png "planet two final/b9.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/backgound.png backgound.png
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c1.png "planet three final/c1.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c10.png "planet three final/c10.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c11.png "planet three final/c11.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c12.png "planet three final/c12.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c13.png "planet three final/c13.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c14.png "planet three final/c14.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c15.png "planet three final/c15.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c16.png "planet three final/c16.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c17.png "planet three final/c17.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c18.png "planet three final/c18.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c19.png "planet three final/c19.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c2.png "planet three final/c2.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c20.png "planet three final/c20.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c21.png "planet three final/c21.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c22.png "planet three final/c22.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c23.png "planet three final/c23.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c24.png "planet three final/c24.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c25.png "planet three final/c25.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c26.png "planet three final/c26.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c27.png "planet three final/c27.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c28.png "planet three final/c28.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c29.png "planet three final/c29.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c3.png "planet three final/c3.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c30.png "planet three final/c30.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c31.png "planet three final/c31.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c4.png "planet three final/c4.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c5.png "planet three final/c5.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c6.png "planet three final/c6.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c7.png "planet three final/c7.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c8.png "planet three final/c8.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/c9.png "planet three final/c9.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d1.png "planet four final/d1.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d10.png "planet four final/d10.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d11.png "planet four final/d11.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d12.png "planet four final/d12.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d13.png "planet four final/d13.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d14.png "planet four final/d14.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d15.png "planet four final/d15.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d16.png "planet four final/d16.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d17.png "planet four final/d17.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d18.png "planet four final/d18.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d19.png "planet four final/d19.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d2.png "planet four final/d2.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d20.png "planet four final/d20.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d21.png "planet four final/d21.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d22.png "planet four final/d22.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d23.png "planet four final/d23.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d24.png "planet four final/d24.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d25.png "planet four final/d25.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d26.png "planet four final/d26.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d27.png "planet four final/d27.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d28.png "planet four final/d28.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d29.png "planet four final/d29.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d3.png "planet four final/d3.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d4.png "planet four final/d4.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d5.png "planet four final/d5.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d6.png "planet four final/d6.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d7.png "planet four final/d7.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d8.png "planet four final/d8.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/d9.png "planet four final/d9.png"
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/grid.png grid.png
+r0
+
+CCopyPNGFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/gridsmall.png gridsmall.png
+r0
+
+CProcessInfoPlistFile /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app/Info.plist scroller-Info.plist
+r0
+
+CTouch /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app
+r0
+
+CValidate /Users/prestonellis/Desktop/scroller/build/Release-iphoneos/scroller.app
+r0
+

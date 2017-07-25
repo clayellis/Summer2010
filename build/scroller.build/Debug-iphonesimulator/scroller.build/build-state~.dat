@@ -1,0 +1,296 @@
+Tscroller
+v7
+r0
+t298856890.597144
+cCheck dependencies
+cProcessInfoPlistFile /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/Info.plist scroller-Info.plist
+cCompileXIB /Users/prestonellis/Desktop/scroller/MainWindow.xib
+cCompileXIB /Users/prestonellis/Desktop/scroller/scrollerViewController.xib
+cCpResource build/Debug-iphonesimulator/scroller.app/p3outline.png p3outline.png
+cCpResource build/Debug-iphonesimulator/scroller.app/backgound.png backgound.png
+cProcessPCH /var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-frxddfycyojbjegjxmssmthlabnu/scroller_Prefix.pch.gch scroller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/main.o /Users/prestonellis/Desktop/scroller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerAppDelegate.o /Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerViewController.o /Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller normal i386
+cGenerateDSYMFile /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app.dSYM /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller
+cTouch /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app
+
+N/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.h
+c000000004C1FBDBE00000000000001E3
+t1277148606
+s483
+i<UIKit/UIKit.h>
+
+N/Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m
+c000000004C1FBDBE00000000000002A6
+t1277148606
+s678
+i"scrollerAppDelegate.h"
+i"scrollerViewController.h"
+
+N/Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.h
+c000000004C1FFA07000000000000024D
+t1277164039
+s589
+i<UIKit/UIKit.h>
+
+N/Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m
+c000000004C1FFA1B0000000000000796
+t1277164059
+s1942
+i"scrollerViewController.h"
+
+N/Users/prestonellis/Desktop/scroller/MainWindow.xib
+c000000004C1FBDBE0000000000002657
+t1277148606
+s9815
+
+N/Users/prestonellis/Desktop/scroller/backgound.png
+c000000004C1BB7100000000000019CDF
+t1276884752
+s105695
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app
+t1277164090
+s306
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app.dSYM
+t1277164090
+s102
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/Info.plist
+t1277164088
+s597
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/MainWindow.nib
+t1277164089
+s1512
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/PkgInfo
+t1277164088
+s8
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/backgound.png
+t1277164089
+s105695
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/p3outline.png
+t1277164089
+s29838
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller
+t1277164090
+s20836
+
+N/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scrollerViewController.nib
+t1277164089
+s2100
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/main.o
+t1277164090
+s6024
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scroller.LinkFileList
+c000000004C1FFA38000000000000018F
+t1277164088
+s399
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerAppDelegate.o
+t1277164090
+s38428
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerViewController.o
+t1277164090
+s34864
+
+N/Users/prestonellis/Desktop/scroller/main.m
+c000000004C1FBDBE0000000000000168
+t1277148606
+s360
+i<UIKit/UIKit.h>
+
+N/Users/prestonellis/Desktop/scroller/p3outline.png
+c000000004C1C3753000000000000748E
+t1276917587
+s29838
+
+N/Users/prestonellis/Desktop/scroller/scrollerViewController.xib
+c000000004C1FFA2A00000000000059DF
+t1277164074
+s23007
+
+N/Users/prestonellis/Desktop/scroller/scroller_Prefix.pch
+c000000004C1FBDBE00000000000000B9
+t1277148606
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-frxddfycyojbjegjxmssmthlabnu/scroller_Prefix.pch.gch
+t1277164089
+s13030864
+
+Nscroller-Info.plist
+c000000004C1FBDBE000000000000038D
+t1277148606
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298856888#298856888#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/main.o /Users/prestonellis/Desktop/scroller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298856889.929652
+e298856890.052692
+r1
+xCompileC
+xbuild/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/main.o
+x/Users/prestonellis/Desktop/scroller/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/prestonellis/Desktop/scroller/main.m298856889#298856890#0(0"0(0#0#43"/Users/prestonellis/Desktop/scroller/main.m4300911832#1965"    cd /Users/prestonellis/Desktop/scroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-generated-files.hmap -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-own-target-headers.hmap -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-all-target-headers.hmap -iquote /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-project-headers.hmap -F/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator -I/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/include -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/DerivedSources/i386 -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/DerivedSources -include /var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-frxddfycyojbjegjxmssmthlabnu/scroller_Prefix.pch -c /Users/prestonellis/Desktop/scroller/main.m -o /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/main.o0#
+
+CCompileC build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerAppDelegate.o /Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298856889.930854
+e298856890.074727
+r1
+xCompileC
+xbuild/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerAppDelegate.o
+x/Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m298856889#298856890#0(0"0(0#0#66"/Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m4300911832#2003"    cd /Users/prestonellis/Desktop/scroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-generated-files.hmap -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-own-target-headers.hmap -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-all-target-headers.hmap -iquote /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-project-headers.hmap -F/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator -I/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/include -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/DerivedSources/i386 -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/DerivedSources -include /var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-frxddfycyojbjegjxmssmthlabnu/scroller_Prefix.pch -c /Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m -o /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerAppDelegate.o0#
+
+CCompileC build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerViewController.o /Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298856890.052795
+e298856890.119547
+r1
+xCompileC
+xbuild/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerViewController.o
+x/Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m298856890#298856890#0(0"0(0#0#69"/Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m4300911832#2009"    cd /Users/prestonellis/Desktop/scroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-generated-files.hmap -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-own-target-headers.hmap -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-all-target-headers.hmap -iquote /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-project-headers.hmap -F/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator -I/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/include -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/DerivedSources/i386 -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/DerivedSources -include /var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-frxddfycyojbjegjxmssmthlabnu/scroller_Prefix.pch -c /Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m -o /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scrollerViewController.o0#
+
+CCompileXIB /Users/prestonellis/Desktop/scroller/MainWindow.xib
+s298856888.643726
+e298856889.051073
+r1
+xCompileXIB
+x/Users/prestonellis/Desktop/scroller/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib298856888#298856889#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#51"/Users/prestonellis/Desktop/scroller/MainWindow.xib4300911832#558"    cd /Users/prestonellis/Desktop/scroller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/MainWindow.nib /Users/prestonellis/Desktop/scroller/MainWindow.xib0#
+
+CCompileXIB /Users/prestonellis/Desktop/scroller/scrollerViewController.xib
+s298856888.644395
+e298856889.076165
+r1
+xCompileXIB
+x/Users/prestonellis/Desktop/scroller/scrollerViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB scrollerViewController.xib298856888#298856889#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#63"/Users/prestonellis/Desktop/scroller/scrollerViewController.xib4300911832#582"    cd /Users/prestonellis/Desktop/scroller    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scrollerViewController.nib /Users/prestonellis/Desktop/scroller/scrollerViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/scroller.app/backgound.png backgound.png
+s298856889.052032
+e298856889.062594
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/scroller.app/backgound.png
+xbackgound.png
+lSLF07#2@18"Copy backgound.png298856889#298856889#0(0"0(0#0#50"/Users/prestonellis/Desktop/scroller/backgound.png4300911832#533"    cd /Users/prestonellis/Desktop/scroller    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/prestonellis/Desktop/scroller/backgound.png /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app0#
+
+CCpResource build/Debug-iphonesimulator/scroller.app/p3outline.png p3outline.png
+s298856889.051170
+e298856889.057239
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/scroller.app/p3outline.png
+xp3outline.png
+lSLF07#2@18"Copy p3outline.png298856889#298856889#0(0"0(0#0#50"/Users/prestonellis/Desktop/scroller/p3outline.png4300911832#533"    cd /Users/prestonellis/Desktop/scroller    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/prestonellis/Desktop/scroller/p3outline.png /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app0#
+
+CGenerateDSYMFile /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app.dSYM /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller
+s298856890.577482
+e298856890.593823
+r1
+xGenerateDSYMFile
+x/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app.dSYM
+x/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/scroller.app.dSYM build/Debug-iphonesimulator/scroller.app/scroller298856890#298856890#0(0"0(0#0#86"/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller4300911832#461"    cd /Users/prestonellis/Desktop/scroller    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/usr/bin/dsymutil /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller -o /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app.dSYM0#
+
+CLd /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller normal i386
+s298856890.119643
+e298856890.577246
+r1
+xLd
+x/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller
+xnormal
+xi386
+lSLF07#2@91"Link /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller298856890#298856890#0(0"0(0#0#0"4300911832#967"    cd /Users/prestonellis/Desktop/scroller    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator -F/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator -filelist /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/Objects-normal/i386/scroller.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/scroller0#
+
+CProcessInfoPlistFile /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/Info.plist scroller-Info.plist
+s298856888.639127
+e298856888.643637
+r1
+xProcessInfoPlistFile
+x/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/Info.plist
+xscroller-Info.plist
+lSLF07#2@27"Process scroller-Info.plist298856888#298856888#0(0"0(0#0#56"/Users/prestonellis/Desktop/scroller/scroller-Info.plist4300911832#530"    cd /Users/prestonellis/Desktop/scroller    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility scroller-Info.plist -genpkginfo /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app/Info.plist0#
+
+CProcessPCH /var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-frxddfycyojbjegjxmssmthlabnu/scroller_Prefix.pch.gch scroller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298856889.076289
+e298856889.929531
+r1
+xProcessPCH
+x/var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-frxddfycyojbjegjxmssmthlabnu/scroller_Prefix.pch.gch
+xscroller_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile scroller_Prefix.pch298856889#298856889#0(0"0(0#0#56"/Users/prestonellis/Desktop/scroller/scroller_Prefix.pch4300911832#1858"    cd /Users/prestonellis/Desktop/scroller    setenv LANG en_US.US-ASCII    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-generated-files.hmap -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-own-target-headers.hmap -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-all-target-headers.hmap -iquote /Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/scroller-project-headers.hmap -F/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator -I/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/include -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/DerivedSources/i386 -I/Users/prestonellis/Desktop/scroller/build/scroller.build/Debug-iphonesimulator/scroller.build/DerivedSources -c /Users/prestonellis/Desktop/scroller/scroller_Prefix.pch -o /var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-frxddfycyojbjegjxmssmthlabnu/scroller_Prefix.pch.gch0#
+
+CTouch /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app
+s298856890.593931
+e298856890.597099
+r1
+xTouch
+x/Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app
+lSLF07#2@83"Touch /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app298856890#298856890#0(0"0(0#0#0"4300911832#329"    cd /Users/prestonellis/Desktop/scroller    setenv PATH "/Users/prestonellis/Desktop/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/prestonellis/Desktop/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/prestonellis/Desktop/scroller/build/Debug-iphonesimulator/scroller.app0#
+

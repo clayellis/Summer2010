@@ -1,0 +1,3030 @@
+Tscroller
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2206850000000000000132
+t1277298309
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/prestonellis/Desktop/scroller/Classes/SelectedViewController.h
+c000000004C531591000000000000035D
+t1280513425
+s861
+i<UIKit/UIKit.h>
+
+N/Users/prestonellis/Desktop/scroller/Classes/SelectedViewController.m
+c000000004C2CBF690000000000003DC9
+t1278001001
+s15817
+i"SelectedViewController.h"
+i"scrollerViewController.h"
+
+N/Users/prestonellis/Desktop/scroller/Classes/SelectedViewController.xib
+c000000004C352FE5000000000000824B
+t1278554085
+s33355
+
+N/Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.h
+c000000004C1FBDBE00000000000001E3
+t1277148606
+s483
+i<UIKit/UIKit.h>
+
+N/Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m
+c000000004C28ED3300000000000002A6
+t1277750579
+s678
+i"scrollerAppDelegate.h"
+i"scrollerViewController.h"
+
+N/Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.h
+c000000004C531D960000000000002A1D
+t1280515478
+s10781
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"SelectedViewController.h"
+
+N/Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m
+c000000004C546E4400000000000205E3
+t1280601668
+s132579
+i"scrollerViewController.h"
+
+N/Users/prestonellis/Desktop/scroller/Default.png
+c000000004C28EB410000000000007299
+t1277750081
+s29337
+
+N/Users/prestonellis/Desktop/scroller/MainWindow.xib
+c000000004C1FBDBE0000000000002657
+t1277148606
+s9815
+
+N/Users/prestonellis/Desktop/scroller/backgound.png
+c000000004C1BB7100000000000019CDF
+t1276884752
+s105695
+
+N/Users/prestonellis/Desktop/scroller/bl.png
+c000000004C3B45E40000000000001C41
+t1278952932
+s7233
+
+N/Users/prestonellis/Desktop/scroller/blurback.png
+c000000004C4F75F00000000000008481
+t1280275952
+s33921
+
+N/Users/prestonellis/Desktop/scroller/bm.png
+c000000004C3B46B900000000000026F1
+t1278953145
+s9969
+
+N/Users/prestonellis/Desktop/scroller/br.png
+c000000004C3B470E0000000000002368
+t1278953230
+s9064
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app.dSYM
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/Default.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/Info.plist
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/MainWindow.nib
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/PkgInfo
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/SelectedViewController.nib
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a23.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a24.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a25.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a26.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/a9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/atom.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/b9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/backgound.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/bag.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/bl.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/blurback.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/bm.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/br.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c23.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c24.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c25.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c26.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c27.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c28.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c29.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c30.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c31.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/c9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/cancel 1.1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/cash.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/check circ.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/coin.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/counter.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d23.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d24.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d25.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d26.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d27.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d28.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d29.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/d9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/dist circ lvl four.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/dot circ.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/dot down.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e23.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e24.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/e9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/ex circ.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/f9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/factory.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/fifteen defense.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/filler 3 filled.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/filler 3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/filler holder.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/five defense.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g17.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g21.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g22.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g5.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/g9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/galaxy.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/glass.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/grid.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/gridsmall.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h10.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h11.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h12.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h13.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h14.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h15.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h16.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h17.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h18.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h19.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h2.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h20.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h3.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h4.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h5.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h6.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h7.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h8.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/h9.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/hammer.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/left.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/more 1.1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/move 1.1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/pearl 1.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/right.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/saw.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/scale.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/scroller
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/scrollerViewController.nib
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/shovel.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/stock.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/tab one.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/ten defense.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/tube.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/twentyfive defense.PNG
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/upgrade box.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/white line.png
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/SelectedViewController.o
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/scroller.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/scrollerAppDelegate.o
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/scrollerViewController.o
+t2
+s0
+
+N/Users/prestonellis/Desktop/scroller/cancel 1.1.png
+c000000004C069B9000000000000015A1
+t1275501456
+s5537
+
+N/Users/prestonellis/Desktop/scroller/check circ.PNG
+c000000004C48A2220000000000001D5F
+t1279828514
+s7519
+
+N/Users/prestonellis/Desktop/scroller/counter.png
+c000000004C3B40450000000000001A65
+t1278951493
+s6757
+
+N/Users/prestonellis/Desktop/scroller/dist circ lvl four.png
+c000000004C531BE900000000000564DE
+t1280515049
+s353502
+
+N/Users/prestonellis/Desktop/scroller/dot circ.png
+c000000004C51E4BB0000000000001ECF
+t1280435387
+s7887
+
+N/Users/prestonellis/Desktop/scroller/dot down.png
+c000000004C4B36A10000000000002842
+t1279997601
+s10306
+
+N/Users/prestonellis/Desktop/scroller/ex circ.PNG
+c000000004C48A2190000000000001EF2
+t1279828505
+s7922
+
+N/Users/prestonellis/Desktop/scroller/filler 3 filled.png
+c000000004C488DFF0000000000000E92
+t1279823359
+s3730
+
+N/Users/prestonellis/Desktop/scroller/filler 3.png
+c000000004C06AF880000000000000DC5
+t1275506568
+s3525
+
+N/Users/prestonellis/Desktop/scroller/filler holder.png
+c000000004C47AE200000000000002E12
+t1279766048
+s11794
+
+N/Users/prestonellis/Desktop/scroller/galaxy.png
+c000000004C4F7461000000000000CDD4
+t1280275553
+s52692
+
+N/Users/prestonellis/Desktop/scroller/grid.png
+c000000004C21895900000000000658A6
+t1277266265
+s415910
+
+N/Users/prestonellis/Desktop/scroller/gridsmall.png
+c000000004C218CEB000000000005E917
+t1277267179
+s387351
+
+N/Users/prestonellis/Desktop/scroller/main.m
+c000000004C1FBDBE0000000000000168
+t1277148606
+s360
+i<UIKit/UIKit.h>
+
+N/Users/prestonellis/Desktop/scroller/more 1.1.png
+c000000004C069C9A0000000000001517
+t1275501722
+s5399
+
+N/Users/prestonellis/Desktop/scroller/move 1.1.png
+c000000004C069C610000000000001504
+t1275501665
+s5380
+
+N/Users/prestonellis/Desktop/scroller/pearl 1.png
+c000000004C069C280000000000001879
+t1275501608
+s6265
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h1.png
+c000000004C28D8880000000000003C2E
+t1277745288
+s15406
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h10.png
+c000000004C28D8650000000000003430
+t1277745253
+s13360
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h11.png
+c000000004C28D86100000000000034F8
+t1277745249
+s13560
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h12.png
+c000000004C28D85E000000000000333A
+t1277745246
+s13114
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h13.png
+c000000004C28D85A000000000000311F
+t1277745242
+s12575
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h14.png
+c000000004C28D8920000000000003222
+t1277745298
+s12834
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h15.png
+c000000004C28D85000000000000032BB
+t1277745232
+s12987
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h16.png
+c000000004C28D84C00000000000035D3
+t1277745228
+s13779
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h17.PNG
+c000000004C28D8490000000000003216
+t1277745225
+s12822
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h18.png
+c000000004C28D8450000000000003A15
+t1277745221
+s14869
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h19.png
+c000000004C28D8420000000000003BFA
+t1277745218
+s15354
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h2.png
+c000000004C28D8810000000000003A77
+t1277745281
+s14967
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h20.png
+c000000004C28D83E0000000000003C11
+t1277745214
+s15377
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h3.png
+c000000004C28D87D00000000000038E6
+t1277745277
+s14566
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h4.png
+c000000004C28D878000000000000374E
+t1277745272
+s14158
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h5.png
+c000000004C28D87500000000000035D7
+t1277745269
+s13783
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h6.png
+c000000004C28D8720000000000003466
+t1277745266
+s13414
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h7.png
+c000000004C28D86F000000000000335B
+t1277745263
+s13147
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h8.png
+c000000004C28D86C0000000000003389
+t1277745260
+s13193
+
+N/Users/prestonellis/Desktop/scroller/planet eight final/h9.png
+c000000004C28D86800000000000033B6
+t1277745256
+s13238
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e1.png
+c000000004C4A0FFF00000000000057A1
+t1279922175
+s22433
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e10.png
+c000000004C4A0FFF00000000000056F2
+t1279922175
+s22258
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e11.png
+c000000004C4A0FFF000000000000550C
+t1279922175
+s21772
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e12.png
+c000000004C4A0FFF0000000000005455
+t1279922175
+s21589
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e13.png
+c000000004C4A0FFF00000000000054CB
+t1279922175
+s21707
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e14.png
+c000000004C4A0FFF000000000000550D
+t1279922175
+s21773
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e15.png
+c000000004C4A0FFF000000000000545D
+t1279922175
+s21597
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e16.png
+c000000004C4A0FFF0000000000005488
+t1279922175
+s21640
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e17.png
+c000000004C4A0FFF00000000000054F4
+t1279922175
+s21748
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e18.png
+c000000004C4A0FFF000000000000547E
+t1279922175
+s21630
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e19.png
+c000000004C4A0FFF0000000000005417
+t1279922175
+s21527
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e2.png
+c000000004C4A0FFF0000000000005760
+t1279922175
+s22368
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e20.png
+c000000004C4A0FFF0000000000005534
+t1279922175
+s21812
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e21.png
+c000000004C4A0FFF00000000000057A1
+t1279922175
+s22433
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e22.png
+c000000004C4A0FFF00000000000056F7
+t1279922175
+s22263
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e23.png
+c000000004C4A0FFF0000000000005534
+t1279922175
+s21812
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e24.png
+c000000004C4A0FFF000000000000570A
+t1279922175
+s22282
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e3.png
+c000000004C4A0FFF0000000000005657
+t1279922175
+s22103
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e4.png
+c000000004C4A0FFF000000000000558F
+t1279922175
+s21903
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e5.png
+c000000004C4A0FFF0000000000005856
+t1279922175
+s22614
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e6.png
+c000000004C4A0FFF00000000000058D5
+t1279922175
+s22741
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e7.png
+c000000004C4A0FFF0000000000005742
+t1279922175
+s22338
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e8.png
+c000000004C4A0FFF000000000000553E
+t1279922175
+s21822
+
+N/Users/prestonellis/Desktop/scroller/planet five final/e9.png
+c000000004C4A0FFF00000000000055F3
+t1279922175
+s22003
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d1.png
+c000000004C1D165A0000000000004284
+t1276974682
+s17028
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d10.png
+c000000004C1D15F6000000000000411F
+t1276974582
+s16671
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d11.png
+c000000004C1D15EE00000000000040F7
+t1276974574
+s16631
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d12.png
+c000000004C1D16E6000000000000420D
+t1276974822
+s16909
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d13.png
+c000000004C1D16DE0000000000004302
+t1276974814
+s17154
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d14.png
+c000000004C1D16D80000000000004221
+t1276974808
+s16929
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d15.png
+c000000004C1D16D200000000000042DA
+t1276974802
+s17114
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d16.png
+c000000004C1D16C6000000000000432D
+t1276974790
+s17197
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d17.png
+c000000004C1D16C000000000000042A9
+t1276974784
+s17065
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d18.png
+c000000004C1D16B400000000000042A1
+t1276974772
+s17057
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d19.png
+c000000004C1D16AE000000000000411C
+t1276974766
+s16668
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d2.png
+c000000004C1D165C00000000000040E9
+t1276974684
+s16617
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d20.png
+c000000004C1D16A8000000000000427F
+t1276974760
+s17023
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d21.png
+c000000004C1D16A200000000000041B5
+t1276974754
+s16821
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d22.png
+c000000004C1D169A00000000000041DF
+t1276974746
+s16863
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d23.png
+c000000004C1D16900000000000004133
+t1276974736
+s16691
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d24.png
+c000000004C1D16920000000000004281
+t1276974738
+s17025
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d25.png
+c000000004C1D168200000000000043F6
+t1276974722
+s17398
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d26.png
+c000000004C1D167C0000000000004294
+t1276974716
+s17044
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d27.png
+c000000004C1D1674000000000000427D
+t1276974708
+s17021
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d28.png
+c000000004C1D1668000000000000440C
+t1276974696
+s17420
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d29.png
+c000000004C1D16540000000000004487
+t1276974676
+s17543
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d3.png
+c000000004C1D165E000000000000413B
+t1276974686
+s16699
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d4.png
+c000000004C1D166C00000000000041A5
+t1276974700
+s16805
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d5.png
+c000000004C1D162000000000000040DC
+t1276974624
+s16604
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d6.png
+c000000004C1D162600000000000040E4
+t1276974630
+s16612
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d7.png
+c000000004C1D162C0000000000004015
+t1276974636
+s16405
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d8.png
+c000000004C1D16300000000000003EFF
+t1276974640
+s16127
+
+N/Users/prestonellis/Desktop/scroller/planet four final/d9.png
+c000000004C1D1600000000000000402D
+t1276974592
+s16429
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a10.png
+c000000004C1D3BFE0000000000004230
+t1276984318
+s16944
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a11.png
+c000000004C1D3BF800000000000040C2
+t1276984312
+s16578
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a12.png
+c000000004C1D3BF30000000000003F86
+t1276984307
+s16262
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a13.png
+c000000004C1D3BEE0000000000003E36
+t1276984302
+s15926
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a14.png
+c000000004C1D3BEA0000000000003EEA
+t1276984298
+s16106
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a15.png
+c000000004C1D3BE500000000000040A6
+t1276984293
+s16550
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a16.png
+c000000004C1D3BE100000000000043E4
+t1276984289
+s17380
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a17.png
+c000000004C1D3BDB0000000000004814
+t1276984283
+s18452
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a18.png
+c000000004C1D3BD60000000000004A43
+t1276984278
+s19011
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a19.png
+c000000004C1D3BD00000000000004A3D
+t1276984272
+s19005
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a2.png
+c000000004C1D3C260000000000004880
+t1276984358
+s18560
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a20.png
+c000000004C1D3BCB00000000000047F9
+t1276984267
+s18425
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a21.png
+c000000004C1D3BC700000000000047A3
+t1276984263
+s18339
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a22.png
+c000000004C1D3BC200000000000046DF
+t1276984258
+s18143
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a23.png
+c000000004C1D3BBC00000000000047EA
+t1276984252
+s18410
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a24.png
+c000000004C1D3BB700000000000046D5
+t1276984247
+s18133
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a25.png
+c000000004C1D3C340000000000004A14
+t1276984372
+s18964
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a26.png
+c000000004C1D3C2F0000000000004921
+t1276984367
+s18721
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a3.png
+c000000004C1D3C22000000000000487E
+t1276984354
+s18558
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a4.png
+c000000004C1D3C1E0000000000004749
+t1276984350
+s18249
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a5.png
+c000000004C1D3C1900000000000044AE
+t1276984345
+s17582
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a6.png
+c000000004C1D3C10000000000000438F
+t1276984336
+s17295
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a7.png
+c000000004C1D3C0C0000000000004363
+t1276984332
+s17251
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a8.png
+c000000004C1D3C080000000000004273
+t1276984328
+s17011
+
+N/Users/prestonellis/Desktop/scroller/planet one final/a9.png
+c000000004C1D3C0300000000000042AF
+t1276984323
+s17071
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g1.png
+c000000004C4A106F00000000000058DC
+t1279922287
+s22748
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g10.png
+c000000004C4A1070000000000000545D
+t1279922288
+s21597
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g11.png
+c000000004C4A107000000000000054F7
+t1279922288
+s21751
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g12.png
+c000000004C4A107000000000000053A3
+t1279922288
+s21411
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g13.png
+c000000004C4A10700000000000005519
+t1279922288
+s21785
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g14.png
+c000000004C4A10700000000000005907
+t1279922288
+s22791
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g15.png
+c000000004C4A10700000000000005949
+t1279922288
+s22857
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g16.png
+c000000004C4A1070000000000000560E
+t1279922288
+s22030
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g17.png
+c000000004C4A10700000000000005422
+t1279922288
+s21538
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g18.png
+c000000004C4A1070000000000000522E
+t1279922288
+s21038
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g19.png
+c000000004C4A107000000000000050F3
+t1279922288
+s20723
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g2.png
+c000000004C4A106F0000000000005959
+t1279922287
+s22873
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g20.png
+c000000004C4A1070000000000000514E
+t1279922288
+s20814
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g21.png
+c000000004C4A107000000000000054E0
+t1279922288
+s21728
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g22.png
+c000000004C4A1070000000000000589C
+t1279922288
+s22684
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g3.png
+c000000004C4A10700000000000005737
+t1279922288
+s22327
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g4.png
+c000000004C4A10700000000000005737
+t1279922288
+s22327
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g5.PNG
+c000000004C4A1070000000000000509B
+t1279922288
+s20635
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g6.png
+c000000004C4A107000000000000054B9
+t1279922288
+s21689
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g7.png
+c000000004C4A107000000000000052EB
+t1279922288
+s21227
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g8.png
+c000000004C4A107000000000000053D3
+t1279922288
+s21459
+
+N/Users/prestonellis/Desktop/scroller/planet seven final/g9.png
+c000000004C4A107000000000000054C4
+t1279922288
+s21700
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f1.png
+c000000004C28D7B4000000000000459C
+t1277745076
+s17820
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f10.png
+c000000004C28D79200000000000043A1
+t1277745042
+s17313
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f11.png
+c000000004C28D78F000000000000411C
+t1277745039
+s16668
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f12.png
+c000000004C28D78C0000000000003FA3
+t1277745036
+s16291
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f13.png
+c000000004C28D789000000000000400F
+t1277745033
+s16399
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f14.png
+c000000004C28D7860000000000003AA6
+t1277745030
+s15014
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f15.png
+c000000004C28D78000000000000041C8
+t1277745024
+s16840
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f16.png
+c000000004C28D77D0000000000004220
+t1277745021
+s16928
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f17.png
+c000000004C28D77A0000000000004347
+t1277745018
+s17223
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f18.png
+c000000004C28D777000000000000453A
+t1277745015
+s17722
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f19.png
+c000000004C28D77400000000000048DB
+t1277745012
+s18651
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f2.png
+c000000004C28D7AF0000000000004620
+t1277745071
+s17952
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f20.png
+c000000004C28D771000000000000496B
+t1277745009
+s18795
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f21.png
+c000000004C28D76E000000000000484C
+t1277745006
+s18508
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f22.png
+c000000004C28D76B0000000000004669
+t1277745003
+s18025
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f3.png
+c000000004C28D7AA000000000000464C
+t1277745066
+s17996
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f4.png
+c000000004C28D7A60000000000004673
+t1277745062
+s18035
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f5.png
+c000000004C28D7A300000000000047E0
+t1277745059
+s18400
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f6.png
+c000000004C28D7A00000000000004743
+t1277745056
+s18243
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f7.png
+c000000004C28D79C00000000000046DA
+t1277745052
+s18138
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f8.png
+c000000004C28D79900000000000045C7
+t1277745049
+s17863
+
+N/Users/prestonellis/Desktop/scroller/planet six final/f9.png
+c000000004C28D7940000000000004648
+t1277745044
+s17992
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c1.png
+c000000004C1C614200000000000041E6
+t1276928322
+s16870
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c10.png
+c000000004C1C61100000000000003EFB
+t1276928272
+s16123
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c11.png
+c000000004C1C610B0000000000003FF7
+t1276928267
+s16375
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c12.png
+c000000004C1C60FD000000000000405F
+t1276928253
+s16479
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c13.png
+c000000004C1C60F70000000000003F61
+t1276928247
+s16225
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c14.png
+c000000004C1C60F50000000000003E95
+t1276928245
+s16021
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c15.png
+c000000004C1C60F20000000000003DCE
+t1276928242
+s15822
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c16.png
+c000000004C1C60EF0000000000003F65
+t1276928239
+s16229
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c17.png
+c000000004C1C60E90000000000003FFD
+t1276928233
+s16381
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c18.png
+c000000004C1C60E60000000000003F0C
+t1276928230
+s16140
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c19.png
+c000000004C1C60E300000000000040F3
+t1276928227
+s16627
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c2.png
+c000000004C1C6140000000000000429D
+t1276928320
+s17053
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c20.png
+c000000004C1C60E00000000000004107
+t1276928224
+s16647
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c21.png
+c000000004C1C60DD0000000000003EA2
+t1276928221
+s16034
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c22.png
+c000000004C1C60DA0000000000003C58
+t1276928218
+s15448
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c23.png
+c000000004C1C60D700000000000039CD
+t1276928215
+s14797
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c24.png
+c000000004C1C60D4000000000000389C
+t1276928212
+s14492
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c25.png
+c000000004C1C60CE00000000000038AE
+t1276928206
+s14510
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c26.png
+c000000004C1C60C20000000000003936
+t1276928194
+s14646
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c27.png
+c000000004C1C60BB00000000000038DA
+t1276928187
+s14554
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c28.png
+c000000004C1C60B90000000000003C0F
+t1276928185
+s15375
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c29.png
+c000000004C1C60B60000000000003C4E
+t1276928182
+s15438
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c3.png
+c000000004C1C613B000000000000417B
+t1276928315
+s16763
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c30.png
+c000000004C1C60B30000000000003C24
+t1276928179
+s15396
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c31.png
+c000000004C1C60AC0000000000003E3D
+t1276928172
+s15933
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c4.png
+c000000004C1C613400000000000040FE
+t1276928308
+s16638
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c5.png
+c000000004C1C6130000000000000404F
+t1276928304
+s16463
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c6.png
+c000000004C1C612B0000000000003F2D
+t1276928299
+s16173
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c7.png
+c000000004C1C61210000000000003E5F
+t1276928289
+s15967
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c8.png
+c000000004C1C611B0000000000003D74
+t1276928283
+s15732
+
+N/Users/prestonellis/Desktop/scroller/planet three final/c9.png
+c000000004C1C61150000000000003D5D
+t1276928277
+s15709
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b1.png
+c000000004C1D99940000000000003F28
+t1277008276
+s16168
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b10.png
+c000000004C1D99940000000000003C9E
+t1277008276
+s15518
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b11.png
+c000000004C1D99940000000000003561
+t1277008276
+s13665
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b12.png
+c000000004C1D99940000000000003531
+t1277008276
+s13617
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b13.png
+c000000004C1D99940000000000003547
+t1277008276
+s13639
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b14.png
+c000000004C1D99940000000000003597
+t1277008276
+s13719
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b15.png
+c000000004C1D999400000000000036A6
+t1277008276
+s13990
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b16.png
+c000000004C1D99940000000000003D7B
+t1277008276
+s15739
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b17.png
+c000000004C1D999400000000000037A1
+t1277008276
+s14241
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b18.png
+c000000004C1D99940000000000003EE7
+t1277008276
+s16103
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b19.png
+c000000004C1D9994000000000000394A
+t1277008276
+s14666
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b2.png
+c000000004C1D99940000000000003E15
+t1277008276
+s15893
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b3.png
+c000000004C1D999400000000000037A6
+t1277008276
+s14246
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b4.png
+c000000004C1D99940000000000003E34
+t1277008276
+s15924
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b5.png
+c000000004C1D99940000000000003770
+t1277008276
+s14192
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b6.png
+c000000004C1D99940000000000003666
+t1277008276
+s13926
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b7.png
+c000000004C1D99940000000000003D5D
+t1277008276
+s15709
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b8.png
+c000000004C1D99940000000000003CF1
+t1277008276
+s15601
+
+N/Users/prestonellis/Desktop/scroller/planet two final/b9.png
+c000000004C1D99940000000000003696
+t1277008276
+s13974
+
+N/Users/prestonellis/Desktop/scroller/scrollerViewController.xib
+c000000004C547007000000000002F33C
+t1280602119
+s193340
+
+N/Users/prestonellis/Desktop/scroller/scroller_Prefix.pch
+c000000004C1FBDBE00000000000000B9
+t1277148606
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/prestonellis/Desktop/scroller/tab one.png
+c000000004C45DDC70000000000002374
+t1279647175
+s9076
+
+N/Users/prestonellis/Desktop/scroller/upgrade box.png
+c000000004C47BBE8000000000000750D
+t1279769576
+s29965
+
+N/Users/prestonellis/Desktop/scroller/upgrade/atom.PNG
+c000000004C3B3E560000000000001792
+t1278950998
+s6034
+
+N/Users/prestonellis/Desktop/scroller/upgrade/bag.PNG
+c000000004C3B3DF80000000000001C80
+t1278950904
+s7296
+
+N/Users/prestonellis/Desktop/scroller/upgrade/cash.PNG
+c000000004C3B3DF00000000000001010
+t1278950896
+s4112
+
+N/Users/prestonellis/Desktop/scroller/upgrade/coin.PNG
+c000000004C3B3DE800000000000014FE
+t1278950888
+s5374
+
+N/Users/prestonellis/Desktop/scroller/upgrade/factory.PNG
+c000000004C3B3DDF00000000000025EB
+t1278950879
+s9707
+
+N/Users/prestonellis/Desktop/scroller/upgrade/fifteen defense.PNG
+c000000004C3B3DD900000000000016A7
+t1278950873
+s5799
+
+N/Users/prestonellis/Desktop/scroller/upgrade/five defense.PNG
+c000000004C3B3DC900000000000017F4
+t1278950857
+s6132
+
+N/Users/prestonellis/Desktop/scroller/upgrade/glass.PNG
+c000000004C3B3E3E0000000000001609
+t1278950974
+s5641
+
+N/Users/prestonellis/Desktop/scroller/upgrade/hammer.PNG
+c000000004C3B3DA90000000000001887
+t1278950825
+s6279
+
+N/Users/prestonellis/Desktop/scroller/upgrade/left.PNG
+c000000004C3B3DA300000000000024DE
+t1278950819
+s9438
+
+N/Users/prestonellis/Desktop/scroller/upgrade/right.PNG
+c000000004C3B3D9E00000000000024F7
+t1278950814
+s9463
+
+N/Users/prestonellis/Desktop/scroller/upgrade/saw.PNG
+c000000004C3B3D950000000000000F67
+t1278950805
+s3943
+
+N/Users/prestonellis/Desktop/scroller/upgrade/scale.PNG
+c000000004C3B3D870000000000001595
+t1278950791
+s5525
+
+N/Users/prestonellis/Desktop/scroller/upgrade/shovel.PNG
+c000000004C3B3E2D00000000000011C5
+t1278950957
+s4549
+
+N/Users/prestonellis/Desktop/scroller/upgrade/stock.PNG
+c000000004C3B3D59000000000000138C
+t1278950745
+s5004
+
+N/Users/prestonellis/Desktop/scroller/upgrade/ten defense.PNG
+c000000004C3B3D400000000000001730
+t1278950720
+s5936
+
+N/Users/prestonellis/Desktop/scroller/upgrade/tube.PNG
+c000000004C3B3E1C0000000000001162
+t1278950940
+s4450
+
+N/Users/prestonellis/Desktop/scroller/upgrade/twentyfive defense.PNG
+c000000004C3B3D180000000000001503
+t1278950680
+s5379
+
+N/Users/prestonellis/Desktop/scroller/white line.png
+c000000004C47BBA10000000000001800
+t1279769505
+s6144
+
+N/var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-aldntjpyjikpmmabbzafffiwbllm/scroller_Prefix.pch.gch
+t2
+s0
+
+Nscroller-Info.plist
+c000000004C53154C00000000000003DA
+t1280513356
+s986
+
+CCompileC build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/SelectedViewController.o /Users/prestonellis/Desktop/scroller/Classes/SelectedViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/main.o /Users/prestonellis/Desktop/scroller/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/scrollerAppDelegate.o /Users/prestonellis/Desktop/scroller/Classes/scrollerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/scroller.build/Release-iphonesimulator/scroller.build/Objects-normal/i386/scrollerViewController.o /Users/prestonellis/Desktop/scroller/Classes/scrollerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/prestonellis/Desktop/scroller/Classes/SelectedViewController.xib
+r0
+
+CCompileXIB /Users/prestonellis/Desktop/scroller/MainWindow.xib
+r0
+
+CCompileXIB /Users/prestonellis/Desktop/scroller/scrollerViewController.xib
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/cancel 1.1.png" "cancel 1.1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/check circ.PNG" "check circ.PNG"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/dist circ lvl four.png" "dist circ lvl four.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/dot circ.png" "dot circ.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/dot down.png" "dot down.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/ex circ.PNG" "ex circ.PNG"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/fifteen defense.PNG" "upgrade/fifteen defense.PNG"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/filler 3 filled.png" "filler 3 filled.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/filler 3.png" "filler 3.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/filler holder.png" "filler holder.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/five defense.PNG" "upgrade/five defense.PNG"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/more 1.1.png" "more 1.1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/move 1.1.png" "move 1.1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/pearl 1.png" "pearl 1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/tab one.png" "tab one.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/ten defense.PNG" "upgrade/ten defense.PNG"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/twentyfive defense.PNG" "upgrade/twentyfive defense.PNG"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/upgrade box.png" "upgrade box.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/scroller.app/white line.png" "white line.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/Default.png Default.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a10.png "planet one final/a10.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a11.png "planet one final/a11.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a12.png "planet one final/a12.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a13.png "planet one final/a13.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a14.png "planet one final/a14.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a15.png "planet one final/a15.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a16.png "planet one final/a16.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a17.png "planet one final/a17.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a18.png "planet one final/a18.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a19.png "planet one final/a19.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a2.png "planet one final/a2.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a20.png "planet one final/a20.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a21.png "planet one final/a21.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a22.png "planet one final/a22.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a23.png "planet one final/a23.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a24.png "planet one final/a24.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a25.png "planet one final/a25.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a26.png "planet one final/a26.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a3.png "planet one final/a3.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a4.png "planet one final/a4.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a5.png "planet one final/a5.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a6.png "planet one final/a6.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a7.png "planet one final/a7.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a8.png "planet one final/a8.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/a9.png "planet one final/a9.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/atom.PNG upgrade/atom.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b1.png "planet two final/b1.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b10.png "planet two final/b10.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b11.png "planet two final/b11.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b12.png "planet two final/b12.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b13.png "planet two final/b13.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b14.png "planet two final/b14.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b15.png "planet two final/b15.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b16.png "planet two final/b16.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b17.png "planet two final/b17.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b18.png "planet two final/b18.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b19.png "planet two final/b19.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b2.png "planet two final/b2.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b3.png "planet two final/b3.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b4.png "planet two final/b4.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b5.png "planet two final/b5.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b6.png "planet two final/b6.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b7.png "planet two final/b7.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b8.png "planet two final/b8.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/b9.png "planet two final/b9.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/backgound.png backgound.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/bag.PNG upgrade/bag.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/bl.png bl.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/blurback.png blurback.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/bm.png bm.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/br.png br.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c1.png "planet three final/c1.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c10.png "planet three final/c10.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c11.png "planet three final/c11.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c12.png "planet three final/c12.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c13.png "planet three final/c13.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c14.png "planet three final/c14.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c15.png "planet three final/c15.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c16.png "planet three final/c16.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c17.png "planet three final/c17.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c18.png "planet three final/c18.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c19.png "planet three final/c19.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c2.png "planet three final/c2.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c20.png "planet three final/c20.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c21.png "planet three final/c21.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c22.png "planet three final/c22.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c23.png "planet three final/c23.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c24.png "planet three final/c24.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c25.png "planet three final/c25.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c26.png "planet three final/c26.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c27.png "planet three final/c27.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c28.png "planet three final/c28.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c29.png "planet three final/c29.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c3.png "planet three final/c3.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c30.png "planet three final/c30.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c31.png "planet three final/c31.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c4.png "planet three final/c4.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c5.png "planet three final/c5.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c6.png "planet three final/c6.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c7.png "planet three final/c7.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c8.png "planet three final/c8.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/c9.png "planet three final/c9.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/cash.PNG upgrade/cash.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/coin.PNG upgrade/coin.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/counter.png counter.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d1.png "planet four final/d1.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d10.png "planet four final/d10.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d11.png "planet four final/d11.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d12.png "planet four final/d12.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d13.png "planet four final/d13.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d14.png "planet four final/d14.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d15.png "planet four final/d15.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d16.png "planet four final/d16.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d17.png "planet four final/d17.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d18.png "planet four final/d18.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d19.png "planet four final/d19.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d2.png "planet four final/d2.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d20.png "planet four final/d20.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d21.png "planet four final/d21.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d22.png "planet four final/d22.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d23.png "planet four final/d23.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d24.png "planet four final/d24.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d25.png "planet four final/d25.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d26.png "planet four final/d26.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d27.png "planet four final/d27.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d28.png "planet four final/d28.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d29.png "planet four final/d29.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d3.png "planet four final/d3.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d4.png "planet four final/d4.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d5.png "planet four final/d5.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d6.png "planet four final/d6.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d7.png "planet four final/d7.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d8.png "planet four final/d8.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/d9.png "planet four final/d9.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e1.png "planet five final/e1.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e10.png "planet five final/e10.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e11.png "planet five final/e11.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e12.png "planet five final/e12.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e13.png "planet five final/e13.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e14.png "planet five final/e14.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e15.png "planet five final/e15.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e16.png "planet five final/e16.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e17.png "planet five final/e17.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e18.png "planet five final/e18.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e19.png "planet five final/e19.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e2.png "planet five final/e2.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e20.png "planet five final/e20.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e21.png "planet five final/e21.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e22.png "planet five final/e22.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e23.png "planet five final/e23.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e24.png "planet five final/e24.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e3.png "planet five final/e3.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e4.png "planet five final/e4.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e5.png "planet five final/e5.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e6.png "planet five final/e6.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e7.png "planet five final/e7.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e8.png "planet five final/e8.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/e9.png "planet five final/e9.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f1.png "planet six final/f1.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f10.png "planet six final/f10.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f11.png "planet six final/f11.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f12.png "planet six final/f12.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f13.png "planet six final/f13.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f14.png "planet six final/f14.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f15.png "planet six final/f15.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f16.png "planet six final/f16.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f17.png "planet six final/f17.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f18.png "planet six final/f18.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f19.png "planet six final/f19.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f2.png "planet six final/f2.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f20.png "planet six final/f20.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f21.png "planet six final/f21.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f22.png "planet six final/f22.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f3.png "planet six final/f3.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f4.png "planet six final/f4.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f5.png "planet six final/f5.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f6.png "planet six final/f6.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f7.png "planet six final/f7.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f8.png "planet six final/f8.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/f9.png "planet six final/f9.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/factory.PNG upgrade/factory.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g1.png "planet seven final/g1.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g10.png "planet seven final/g10.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g11.png "planet seven final/g11.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g12.png "planet seven final/g12.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g13.png "planet seven final/g13.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g14.png "planet seven final/g14.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g15.png "planet seven final/g15.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g16.png "planet seven final/g16.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g17.png "planet seven final/g17.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g18.png "planet seven final/g18.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g19.png "planet seven final/g19.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g2.png "planet seven final/g2.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g20.png "planet seven final/g20.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g21.png "planet seven final/g21.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g22.png "planet seven final/g22.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g3.png "planet seven final/g3.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g4.png "planet seven final/g4.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g5.PNG "planet seven final/g5.PNG"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g6.png "planet seven final/g6.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g7.png "planet seven final/g7.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g8.png "planet seven final/g8.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/g9.png "planet seven final/g9.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/galaxy.png galaxy.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/glass.PNG upgrade/glass.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/grid.png grid.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/gridsmall.png gridsmall.png
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h1.png "planet eight final/h1.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h10.png "planet eight final/h10.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h11.png "planet eight final/h11.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h12.png "planet eight final/h12.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h13.png "planet eight final/h13.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h14.png "planet eight final/h14.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h15.png "planet eight final/h15.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h16.png "planet eight final/h16.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h17.PNG "planet eight final/h17.PNG"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h18.png "planet eight final/h18.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h19.png "planet eight final/h19.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h2.png "planet eight final/h2.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h20.png "planet eight final/h20.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h3.png "planet eight final/h3.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h4.png "planet eight final/h4.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h5.png "planet eight final/h5.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h6.png "planet eight final/h6.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h7.png "planet eight final/h7.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h8.png "planet eight final/h8.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/h9.png "planet eight final/h9.png"
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/hammer.PNG upgrade/hammer.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/left.PNG upgrade/left.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/right.PNG upgrade/right.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/saw.PNG upgrade/saw.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/scale.PNG upgrade/scale.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/shovel.PNG upgrade/shovel.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/stock.PNG upgrade/stock.PNG
+r0
+
+CCpResource build/Release-iphonesimulator/scroller.app/tube.PNG upgrade/tube.PNG
+r0
+
+CGenerateDSYMFile /Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app.dSYM /Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/scroller
+r0
+
+CLd /Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/scroller normal i386
+r0
+
+CProcessInfoPlistFile /Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app/Info.plist scroller-Info.plist
+r0
+
+CProcessPCH /var/folders/kX/kXPGsKFAHYGw6fU9IH5b3k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/scroller_Prefix-aldntjpyjikpmmabbzafffiwbllm/scroller_Prefix.pch.gch scroller_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/prestonellis/Desktop/scroller/build/Release-iphonesimulator/scroller.app
+r0
+
