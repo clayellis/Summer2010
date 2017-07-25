@@ -1,2 +1,2 @@
 # Summer2010
-This was the first app I ever made. I called it Strategery.
+This was the first app I ever made. I called it Strategery. I had zero coding experience prior to hitting "New Project" in Xcode that summer. From June until August I spent every day in books and on YouTube trying to get my hands on coding tutorials. Looking back now (Summer 2017) this project is a testament to how far you can come with the right drive and will to learn. By my standards today, this project is awful. But it's also sorta cute to look back on. I would be devastated if I ever lost it. *This is my Hello, World.*
